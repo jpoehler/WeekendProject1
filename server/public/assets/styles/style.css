@@ -1,4 +1,4 @@
-main {
+body {
   font-family: Arial, Verdana, sans-serif;
   background-color: #bdc2c1;
 
@@ -33,9 +33,11 @@ h3 {
 }
 .employees {
   width: 500px;
-  margin: 50px auto 10px auto;
+  margin: 25px auto 25px auto;
+  border-radius: 15px;
   background-color: #fad6e5;
   border-top: 10px;
+  border: 2px solid black;
 }
 
 button {
